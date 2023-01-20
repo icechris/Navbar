@@ -1,0 +1,16 @@
+footer{
+    background-color: whitesmoke;
+    padding-top:10px;
+}
+footer p{
+    text-align: center;
+}
+table#listing th{
+    width: 100%;
+}
+table#listing th{
+    background-color: #d47f7f;
+    padding: 10px;
+    text-align: center;
+    border: solid 1px white;
+}
